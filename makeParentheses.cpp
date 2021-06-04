@@ -4,7 +4,7 @@ public:
             
             int aux = 0, aux1 = 0;
             
-            for(int i=0;i<S.size();i++){
+            for(int i = 0; i < S.size(); i++){
                 
                 if(S[i] == '('){
                    aux++;
